@@ -7,7 +7,7 @@ Here you can find all my projects that i worked and the ones i'm currently worki
 - Lifelong and public learner;
 
 ### Techs and tools
-#### Frontend
+
 <div style="display: inline-block">
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
@@ -16,10 +16,7 @@ Here you can find all my projects that i worked and the ones i'm currently worki
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
-</div>
-
-#### Backend
-<div style="display: inline-block"> 
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'>
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
   <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
