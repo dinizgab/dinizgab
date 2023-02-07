@@ -24,6 +24,6 @@ Here you can find all my projects that i worked and the ones i'm currently worki
 </div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinizgab&show_icons=true&theme=vue-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizgab&layout=compact&theme=vue-dark"/>
 </div>
