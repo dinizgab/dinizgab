@@ -1,17 +1,32 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**dinizgab/dinizgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel and welcome to my github.
+Here you can find all my projects that i worked and the ones i'm currently working to study or to make cool things with programming!
+- I'm a selftaught frontend developer and a DevOps enthusiast;
+- Currently a undergraduate in Computer Science @ UFCG;
+- Lifelong and public learner;
 
-Here are some ideas to get you started:
+### Techs and tools
+#### Frontend
+<div style="display: inline-block">
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinizgab)](https://github.com/dinizgab/github-readme-stats)
+#### Backend
+<div style="display: inline-block"> 
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg'>
+  <img height="40em" width="40em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'>
+</div>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinizgab&layout=compact&theme=vue-dark"/>
+</div>
